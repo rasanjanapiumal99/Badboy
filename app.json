@@ -1,13 +1,13 @@
 {
-  "name": "Queen Zellie",
-  "description": "Queen Zellie is a chat bot for Telegram. Make it easy and fun to use Telegram.",
-  "logo": "https://i.ibb.co/ZSgCV70/20210921-020916.jpg",
+  "name": "Bad boy",
+  "description": "bad boy is a chat bot for Telegram. Make it easy and fun to use Telegram.",
+  "logo": "https://c.tenor.com/bqblsnQWv6YAAAAC/devils.gif",
   "keywords": [
     "Youtube","YoutubeDownloader","YTDownloder"
   ],
-  "repository": "https://github.com/SinhalayaCreator/Queen_Zellie",
+  "repository": "https://github.com/Dinaaofficial/Badboy",
   "success_url": "https://t.me/youtubdlbot",
-  "website": "https://github.com/SinhalayaCreator/Queen_Zellie",
+  "website": "https://github.com/Dinaaofficial/Badboy",
   "env": {
         "API_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
         "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
