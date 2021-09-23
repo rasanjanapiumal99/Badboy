@@ -41,7 +41,8 @@
      </a>
   </p>
   </div>
-  
+  <h3 align="left">Join My WebSite:</h3>
+<a href="https://dinaaofficial.github.io/dina-official/index.html" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/GNOME_Web_logo--2018.svg/1200px-GNOME_Web_logo--2018.svg.png" alt="Dinaaofficial" height="40" width="40" /></a>
   ```
 Bad boy bot is an UserBot for Telegram That allowing you to get done so many tasks.
 The user is responsible for all possible consequences of misuse.
