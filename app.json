@@ -1,0 +1,29 @@
+{
+  "name": "Queen Zellie",
+  "description": "Queen Zellie is a chat bot for Telegram. Make it easy and fun to use Telegram.",
+  "logo": "https://i.ibb.co/ZSgCV70/20210921-020916.jpg",
+  "keywords": [
+    "Youtube","YoutubeDownloader","YTDownloder"
+  ],
+  "repository": "https://github.com/SinhalayaCreator/Queen_Zellie",
+  "success_url": "https://t.me/youtubdlbot",
+  "website": "https://github.com/SinhalayaCreator/Queen_Zellie",
+  "env": {
+        "API_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
+        "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
+        "BOT_TOKEN": {"description": "Get Bot Token From BotFather Bot","required": true}
+  },
+      "buildpacks": [
+        {"url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"},
+        {"url": "heroku/python"}
+    ],
+  "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    },
+      "stack": "heroku-20"
+
+
+}
