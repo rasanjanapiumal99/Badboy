@@ -10,7 +10,13 @@
   </br>
 </p>  
   
-  ---
+   </div>
+  <h3 align="left">Join My WebSite:</h3>
+<a href="https://dinaaofficial.github.io/dina-official/index.html" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/GNOME_Web_logo--2018.svg/1200px-GNOME_Web_logo--2018.svg.png" alt="Dinaaofficial" height="40" width="40" /></a>
+
+<h3 align="left">Join My Whatsapp Group:</h3>
+<a href="https://chat.whatsapp.com/ChtWfnGexZlJsLOm99toIu" target="blank"><img align="center" src="https://1.bp.blogspot.com/-PM8_Rig8V0M/XxFkv-2f3hI/AAAAAAAACSU/vB1BqbuhFCMyJ8OGCVstFiMLFmavCLqrwCPcBGAYYCw/s1600/whatsapp-logo-1.png" alt="Dinaaofficial" height="40" width="40" /></a> 
+ ---
 <div align="center"> 
   <h3> ɧơῳ ɬơ ıŋʂɬąƖƖ ☠️😼𝕭𝖆𝖉 𝕭𝖔𝖞♀️☠️ </h3>
 </div>
@@ -40,9 +46,8 @@
      <a href="https://github.com/Dinaaofficial/Badboy"><img src="https://img.shields.io/static/v1?label=Author&message=Mr.Dina%20Creator&color=green&style=plastic">
      </a>
   </p>
-  </div>
-  <h3 align="left">Join My WebSite:</h3>
-<a href="https://dinaaofficial.github.io/dina-official/index.html" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/GNOME_Web_logo--2018.svg/1200px-GNOME_Web_logo--2018.svg.png" alt="Dinaaofficial" height="40" width="40" /></a>
+  
+  
   ```
 Bad boy bot is an UserBot for Telegram That allowing you to get done so many tasks.
 The user is responsible for all possible consequences of misuse.
