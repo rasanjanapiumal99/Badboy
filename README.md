@@ -41,3 +41,30 @@
      </a>
   </p>
   </div>
+  
+  ```
+Bad boy bot is an UserBot for Telegram That allowing you to get done so many tasks.
+The user is responsible for all possible consequences of misuse.
+This is not a Open-Source project. This is just a project that allow you to get deploy a bot.
+Additionally, it enables plug-in support for users.
+Install their own plugins to the original software and use as they please.
+Usage is entirely the responsibility of the user. The operating system is not responsible.
+HAVE A FUN!
+```
+```
+Bad boy බොට් යනු telegram සඳහා වන පරිශීලක බොට් එකක් වන අතර එමඟින් ඔබට බොහෝ කාර්යයන් ඉටු කිරීමට ඉඩ සලසයි.
+අනිසි ලෙස භාවිතා කිරීමේ සියලු ප්‍රතිවිපාක සඳහා පරිශීලකයා වගකිව යුතුය.
+මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියක් නොවේ. මෙය බොට් යන්ත්‍රයක් යෙදවීමට ඔබට ඉඩ සලසන ව්‍යාපෘතියක් පමණි.
+ඊට අමතරව, එය පරිශීලකයින් සඳහා ප්ලග් ඉන් සහාය සක්‍රීය කරයි.
+මුල් මෘදුකාංගයට තමන්ගේම ප්ලගීන සවි කර තමන්ට කැමති පරිදි භාවිතා කරන්න.
+භාවිතය සම්පූර්ණයෙන්ම පරිශීලකයාගේ වගකීමකි. මෙහෙයුම් පද්ධතිය වගකිව යුතු නොවේ.
+විනොද වෙන්න!
+```
+### License
+This project is protected by the `GNU General Public License v3.0.`
+Do not edit copyright messages!
+<br/>මෙම ව්‍යාපෘතිය ආරක්‍ෂා කර ඇත්තේ `ජීඑන්යූ පොදු මහජන බලපත්‍රය v3.0.` මඟින් ය
+ප්‍රකාශන හිමිකම් පණිවිඩ සංස්කරණය නොකරන්න!
+### Disclaimer
+`Telegram` name, its variations and logo are registered trademarks on Facebook. We have nothing to do with the registered trademark.
+<br/>`Telegram`නම, එහි වෙනස්කම් සහ ලාංඡනය ෆේස්බුක් හි ලියාපදිංචි වෙළඳ ලකුණු වේ. ලියාපදිංචි වෙළඳ ලකුණ සමඟ අපට කිසිදු සම්බන්ධයක් නැත.
