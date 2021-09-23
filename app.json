@@ -9,9 +9,9 @@
   "success_url": "https://t.me/youtubdlbot",
   "website": "https://github.com/Dinaaofficial/Badboy",
   "env": {
-        "API_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
-        "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
-        "BOT_TOKEN": {"description": "Get Bot Token From BotFather Bot,ටtelegram හි bot father search කර එහි නිව් බොට් කෙනෙක් නිර්මාණය කර එහි bot token ලබාගන්න","required": true}
+        "API_ID": {"description": "Get this value from https://my.telegram.org(මෙම වෙබ් අඩවිය හරහා ලබාගන්න)", "required": true},
+        "API_HASH": {"description": "Get this value from https://my.telegram.org(මෙම වෙබ් අඩවිය හරහා ලබාගන්න)" , "required": true},
+        "BOT_TOKEN": {"description": "Get Bot Token From BotFather Bot (telegram හි bot father search කර එහි නිව් බොට් කෙනෙක් නිර්මාණය කර එහි bot token ලබාගන්)න","required": true}
   },
       "buildpacks": [
         {"url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"},
