@@ -39,7 +39,7 @@
     <a href="https://github.com/Dinaaofficial/Badboy/stargazers"><img src="https://img.shields.io/github/stars/Dinaaofficial/Badboy?style=social">
       </p>
    <p>
-     <a href="https://github.com/Dinaaofficial/Badboy"><img src="https://img.shields.io/github/repo-size/SinhalayaCreator/Badboy?color=purple&label=Repo%20Size&style=plastic">
+     <a href="https://github.com/Dinaaofficial/Badboy"><img src="https://img.shields.io/github/repo-size/Dinaaofficial/Badboy?color=purple&label=Repo%20Size&style=plastic">
      </a>
      <a href="https://github.com/Dinaaofficial/Badboy"><img src="https://img.shields.io/github/license/Dinaaofficial/Badboy?color=purple&label=License&style=plastic">
      </a>
