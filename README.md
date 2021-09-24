@@ -11,12 +11,8 @@
 </p>  
   
    </div>
-  <h3 align="left">Join My WebSite:</h3>
+   <div align="center"> 
 <a href="https://dinaaofficial.github.io/dina-official/index.html" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/GNOME_Web_logo--2018.svg/1200px-GNOME_Web_logo--2018.svg.png" alt="Dinaaofficial" height="40" width="40" /></a>
-
-<h3 align="left">Join My Whatsapp Group:</h3>
-<a href="https://chat.whatsapp.com/ChtWfnGexZlJsLOm99toIu" target="blank"><img align="center" src="https://1.bp.blogspot.com/-PM8_Rig8V0M/XxFkv-2f3hI/AAAAAAAACSU/vB1BqbuhFCMyJ8OGCVstFiMLFmavCLqrwCPcBGAYYCw/s1600/whatsapp-logo-1.png" alt="Dinaaofficial" height="40" width="40" /></a> 
-
 
 ---
 <div align="center"> 
@@ -72,7 +68,7 @@ Bad boy බොට් යනු telegram සඳහා වන පරිශීල�
 ### License
 This project is protected by the `GNU General Public License v3.0.`
 Do not edit copyright messages!
-<br/>මෙම ව්‍යාපෘතිය ආරක්‍ෂා කර ඇත්තේ `ජීඑන්යූ පොදු මහජන බලපත්‍රය v3.0.` මඟින් ය
+<br/>මෙම ව්‍යාපෘතිය ආරක්‍ෂා කර ඇත්තේ `GNU පොදු මහජන බලපත්‍රය v3.0.` මඟින් ය
 ප්‍රකාශන හිමිකම් පණිවිඩ සංස්කරණය නොකරන්න!
 ### Disclaimer
 `Telegram` name, its variations and logo are registered trademarks on Facebook. We have nothing to do with the registered trademark.
