@@ -162,4 +162,3 @@ async def send_file(c, q, med, filename):
             os.remove(thumb_image_path)
         except:
             pass
-    
